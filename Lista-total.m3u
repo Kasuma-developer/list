@@ -139,6 +139,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ANIME Y SERIES",taltal TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ANIME Y SERIES",oneone TV HD
+https://live20.bozztv.com/akamaissh101/ssh101/oneone/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydkLhZn/zoy-tv-hd-new.jpg" group-title="ANIME Y SERIES",MAX ANIME HD
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
 
