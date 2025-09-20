@@ -118,6 +118,9 @@ https://tv3.bitstreaming.net:3951/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",BIG TV HD
 https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",simpson TV HD
+https://live20.bozztv.com/akamaissh101/ssh101/simplatn/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
