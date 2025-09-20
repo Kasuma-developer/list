@@ -119,7 +119,7 @@ https://tv3.bitstreaming.net:3951/multi_live/play_720.m3u8
 https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",WOW TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
