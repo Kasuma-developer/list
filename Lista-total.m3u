@@ -107,7 +107,7 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 https://tv.invasivamedia.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="ANIME Y SERIES",PUNTO TV
-https://live20.bozztv.com/akamaissh101/ssh101/tv2024/playlist.m3u8
+https://stream-usa4.hostpannel.lat:19360/puntotv/puntotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="ANIME Y SERIES",DELTA TV HD
 https://tv3.bitstreaming.net:3951/multi_live/play_720.m3u8
@@ -115,11 +115,14 @@ https://tv3.bitstreaming.net:3951/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",BIG TV HD
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",CANAL 69 HD
+https://live21.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",simpson TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/simplatn/chunks.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",WOW TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
@@ -134,13 +137,13 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ANIME Y SERIES",ANIME STATION TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ANIME Y SERIES",taltal TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ANIME Y SERIES",oneone TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/oneone/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",BIG TV HD
+https://live21.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydkLhZn/zoy-tv-hd-new.jpg" group-title="ANIME Y SERIES",MAX ANIME HD
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
@@ -149,10 +152,10 @@ https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8YTgqH/FAN-POP-HD.jpg" group-title="ANIME Y SERIES",LOCOMOTION HD
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1xSz2/MONI-TV-HD.jpg" group-title="ANIME Y SERIES",MONI TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="ANIME Y SERIES",MAGICKIDS TV HD
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -168,6 +171,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",WEPA TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",apanine TV HD
+https://live21.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.postimg.cc/tC7BF0M5/65Mixbo.jpg" group-title="ANIME Y SERIES",BOLIVIA MIX HD
 https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
