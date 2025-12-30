@@ -12,18 +12,8 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d3ew2cr4djta2j.cloudfront.net/original.m3u8
 
-
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
 https://rtp.noxun.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7]
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.m3u8
-
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
-https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1395384263.m3u8
-
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.2 HD
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1088797861_vo.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
@@ -50,7 +40,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",DELTA TV HD
-https://node2.bitstreaming.net:3951/multi_live/play_720.m3u8
+https://node2.bitstreaming.net:3951/multi_live/play_240.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",CEACOM HD
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
@@ -110,16 +100,19 @@ https://tv.invasivamedia.com/hls/live.m3u8
 https://stream-usa4.hostpannel.lat:19360/puntotv/puntotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="ANIME Y SERIES",DELTA TV HD
-https://node2.bitstreaming.net:3951/multi_live/play_480.m3u8
+https://node2.bitstreaming.net:3951/multi_live/play_240.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",BIG TV HD
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",MONTE GRANDE TV HD
+https://live21.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",CANAL 69 HD
 https://live21.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",simpson TV HD
-https://live21.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/simpnewt/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
 https://live21.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
@@ -163,20 +156,17 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="ANIME Y SERIES",VARIED TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="ANIME Y SERIES",JAPON TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/EthanL2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="ANIME Y SERIES",ANIPLUS TV HD
+https://live21.bozztv.com/akamaissh101/ssh101/aniplustv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.postimg.cc/QxdxvYcB/RETRO-MAGICO-HD.jpg" group-title="ANIME Y SERIES",RETROMAGICO HD
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
-
-#EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",WEPA TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",apanine TV HD
 https://live21.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.postimg.cc/tC7BF0M5/65Mixbo.jpg" group-title="ANIME Y SERIES",BOLIVIA MIX HD
-https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP TV PLAY HD
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
