@@ -40,7 +40,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",DELTA TV HD
-https://node2.bitstreaming.net:3951/multi_live/play_240.m3u8
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",CEACOM HD
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
@@ -100,7 +100,7 @@ https://tv.invasivamedia.com/hls/live.m3u8
 https://stream-usa4.hostpannel.lat:19360/puntotv/puntotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="ANIME Y SERIES",DELTA TV HD
-https://node2.bitstreaming.net:3951/multi_live/play_240.m3u8
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="ANIME Y SERIES",BIG TV HD
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
@@ -166,7 +166,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.postimg.cc/tC7BF0M5/65Mixbo.jpg" group-title="ANIME Y SERIES",BOLIVIA MIX HD
-https://live21.bozztv.com/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP TV PLAY HD
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
